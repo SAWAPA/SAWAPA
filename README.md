@@ -26,7 +26,7 @@
 
 ---
 
-<h3 align="left"><b>📫 My contact:</b> boomrutcha@gmail.com</h3>
+<h3 align="left"><b>📫 My contact:</b> <a href="mailto:boomrutcha@gmail.com">boomrutcha@gmail.com</a></h3>
 
 <h3 align="left"><b>Languages and Tools:</b></h3>
 <p align="left">
