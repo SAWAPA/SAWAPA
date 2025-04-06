@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ratchanon Laosamphan</h1>
 
-<h3>I'm a Computer Science student at <b>King Mongkut's Institute of Technology Ladkrabang (KMITL)</b>, always passionate about writing code and solving problems through technology. 💻🚀</h3>
+<h3>I'm a Computer Science student at <b>King Mongkut's Institute of Technology Ladkrabang (KMITL)[Year 1]</b>, always passionate about writing code and solving problems through technology. 💻🚀</h3>
 
 <p>
   I believe in continuously improving my skills, experimenting with new technologies, and taking on challenges that push me to grow both personally and professionally. 🌱
