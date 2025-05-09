@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hello, I'm Ratchanon Laosamphan</h1>
 
 <p align="center">
-  <em>First-year Computer Science student at <strong>King Mongkut's Institute of Technology Ladkrabang (KMITL)</strong></em><br>
   Passionate about building things with code and solving real-world problems through technology. 💻🚀
 </p>
 
